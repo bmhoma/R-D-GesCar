@@ -1,0 +1,22 @@
+SUJET PROJET NODE
+____________________
+
+Faire le mini tp qu'on a fait en cours.
+Avec ses propres technos.
+
+Pas d'express, pas de mongoose, pas d'heroku, pas de
+travis. Sur postman, tout doit se passer de la même
+manière. Pas de frameworks qu'on a utilisé.
+
+Regardez ce qui est intéressant, ce qui vous parait
+curieux... etc.
+
+L'idée est de travailler sur cette partie R&D
+
+Pourquoi j'ai choisi cette techno ? Ce qui m'a plu, et
+tout et tout.
+
+___________________
+
+Tout se trouve sur la branche project de julien-sarazin
+https://github.com/julien-sarazin/MOC-js/tree/project
